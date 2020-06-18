@@ -1,0 +1,6 @@
+package qarallax.com.vin
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
